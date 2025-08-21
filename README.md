@@ -1,7 +1,7 @@
 # DBE Checker
 
 **Data Breach Exposure Checker**
-A Python-based tool that checks if an email address (or list of emails) has appeared in known data breaches using the [Have I Been Pwned API](https://haveibeenpwned.com).
+A Python-based tool that checks if an email address (or list of emails) has appeared in known data breaches using [Have I Been Pwned](https://haveibeenpwned.com) and [Shodan](https://www.shodan.io).
 This project is designed for learning purposes only and demonstrates how Python can be used for automation, API interaction, and security awareness reporting.
 
 
