@@ -28,6 +28,12 @@ This project was built to:
 
 ---
 
-**Disclaimer**
+**Key Information to Know**
+
+You'll need to make your own .env file and use your own API keys for HIBP/Shodan. Doing this is the safest way without giving out your keys to anyone. If you don't know how to make an .env file, you can find it on the [pypi.org](https://pypi.org/project/python-dotenv/) here or ask your local AI assistant *(reading is fundamental though.)*
+
+You will need to create your own accounts, and utilize the free version of Shodan. HIBP does cost very little, but it is needed to retrieve your API key (Shodan has membership tiers.)
+
+**Important Disclaimer**
 
 This tool is created *strictly* for educational purposes. It must only be used on email accounts that you personally own or have explicit permission to test. Unauthorized use on third-party accounts may violate privacy laws and ethical guidelines. Be safe, and beware!
